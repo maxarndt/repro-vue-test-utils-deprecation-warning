@@ -1,0 +1,25 @@
+{
+  "name": "repro-vue-test-utils-deprecation-warning",
+  "version": "0.1.0",
+  "description": "repro for vue-test-utils",
+  "main": "index.spec.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxarndt/repro-vue-test-utils-deprecation-warning.git"
+  },
+  "author": "Max Arndt <m.arndt@mozys.de>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maxarndt/repro-vue-test-utils-deprecation-warning/issues"
+  },
+  "homepage": "https://github.com/maxarndt/repro-vue-test-utils-deprecation-warning#readme",
+  "dependencies": {
+    "@vue/test-utils": "^1.0.0",
+    "jest": "^26.0.1",
+    "vue": "^2.6.11",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
